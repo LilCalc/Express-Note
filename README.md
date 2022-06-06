@@ -32,7 +32,8 @@
    ## Usage
    To create, delete, and save notes.
    ## Screenshot
-   ![Screenshot](N/A)
+   ![Screen Shot 2022-06-05 at 8 42 55 PM](https://user-images.githubusercontent.com/101202962/172080936-6d98e2d5-04f8-4706-95a0-37f7d957e064.png)
+
    ## Features
    Writing Notes using express.
    
