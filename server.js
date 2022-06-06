@@ -9,9 +9,9 @@ app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 app.use(express.static("public"));
 
-const apiRoutes = require("../miniature-eureka/Routes/apiRoutes");
+const apiRoutes = require("./Routes/apiRoutes");
 app.use(apiRoutes);
-const htmlRoutes = require("../miniature-eureka/Routes/htmlRoutes");
+const htmlRoutes = require("./Routes/htmlRoutes");
 app.use(htmlRoutes);
 
 //server listener
